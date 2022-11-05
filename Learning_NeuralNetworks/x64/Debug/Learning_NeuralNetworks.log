@@ -1,0 +1,6 @@
+﻿  Learning_NeuralNetworks.cpp
+C:\Users\rosam\source\repos\Learning_NeuralNetworks\Learning_NeuralNetworks\Learning_NeuralNetworks.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MultiLayerPerceptron.cpp
+  Perceptron.cpp
+  Generating Code...
+  Learning_NeuralNetworks.vcxproj -> C:\Users\rosam\source\repos\Learning_NeuralNetworks\x64\Debug\Learning_NeuralNetworks.exe
